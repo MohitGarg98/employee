@@ -1,0 +1,8 @@
+body{
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100vw;
+}
+.app{
+    display: flex;
+}
